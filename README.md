@@ -1,3 +1,7 @@
+Refactorisation et ajout de fonctionnaliter en cours pour le passage de RNCP
+
+
+
 Un Site web de type CMS par:
 
 -Fabienne guerin
