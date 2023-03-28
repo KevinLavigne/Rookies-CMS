@@ -58,7 +58,7 @@ class UserController {
     console.warn(hashPassword(req.body.password));
     return hashPassword(req.body.password).then((hashedPassword) => {
       const user = {
-        id: "RookiesAdmin",
+        id: "Admin",
         email: req.body.email,
         password: hashedPassword,
       };
